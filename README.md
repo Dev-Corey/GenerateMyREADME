@@ -58,9 +58,11 @@ Click the repository link below. Download the zip file and copy it to a director
 [Tutorial on how to use app](https://drive.google.com/file/d/1D2fBbKYpz3s7xbjWTj9DZnJrpr12AgbM/view)
 
 README Screenshot No License
+
 ![README Screenshot No License](utils/images/no-license-screenshot.png)
 
 README Screenshot with License
+
 ![README Screenshot with License](utils/images/with-license-screenshot.png)
 
 ## [Usage](#table-of-contents)
